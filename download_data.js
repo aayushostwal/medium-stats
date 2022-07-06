@@ -32,4 +32,3 @@ function getMediumStats()
 }
 getMediumStats()
 window.location.assign("https://sites.google.com/view/mediumstats/home");
-Footer
